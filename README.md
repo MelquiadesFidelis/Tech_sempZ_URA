@@ -1,6 +1,6 @@
 ## Escola de Ciências e Tecnologia – UFRN
 
-You can use the [GitHub Tech_SempZ](http://tech-sempz.blogspot.com.br/) to maintain and preview the content for your website in Markdown files.
+Seja bem vindo ao [GitHub Tech_SempZ](http://tech-sempz.blogspot.com.br/) tOnde se encontra um vasto material de programação, desde vidios aulas, lista de exercicios até jogos eletronicos 2D.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
