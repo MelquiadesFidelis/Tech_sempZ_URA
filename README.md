@@ -1,6 +1,6 @@
 ## Escola de Ciências e Tecnologia – UFRN
 
-You can use the [editor on GitHub](https://github.com/MelquiadesFidelis/Tech_sempZ_URA/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [GitHub Tech_SempZ](http://tech-sempz.blogspot.com.br/) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
