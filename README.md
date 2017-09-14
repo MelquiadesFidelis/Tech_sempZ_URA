@@ -5,7 +5,9 @@ Seja bem vindo ao [GitHub Tech_SempZ](http://tech-sempz.blogspot.com.br/) Onde s
 Sempre que você se comprometer em estudar um dos tópicos propostos do site Tech sempZ, poderá ir ao site, ou se desejar um arquivo contido no mesmo, poderá fazer o download gratuitamente como estas listas de Exercícios propostos na linguagem C++.
 
 [Lista de Exercícios (1) C++](http://tech-sempz.blogspot.com.br/2017/09/lista-de-exercicio-1-c.html) .
+
 [Lista de Exercícios (2) C++](http://tech-sempz.blogspot.com.br/2017/09/lista-de-exercicio-2-c.html) .
+
 [Lista de Exercícios (3) C++](http://tech-sempz.blogspot.com.br/2017/09/lista-de-exercicio-3-c.html) .
 
 ### Markdown
