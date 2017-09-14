@@ -17,6 +17,6 @@ Sempre que você se comprometer em estudar um dos tópicos propostos do site Tec
 
 Criador e desenvolvedor do projeto Tech sempZ. Copyright (C) 2017 Tech-sempZ | Powered by Melquiades Fidelis
 
-## [Youtube_TechSempZ](https://www.youtube.com/channel/UCdciwN8LatUX22jZkTBajfA?sub_confirmation=1).
+### [Youtube_TechSempZ](https://www.youtube.com/channel/UCdciwN8LatUX22jZkTBajfA?sub_confirmation=1).
 
-## [Facebook_MelquiadesFidelis](https://www.facebook.com/melquiades.fidelis).
+### [Facebook_MelquiadesFidelis](https://www.facebook.com/melquiades.fidelis).
