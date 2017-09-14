@@ -13,26 +13,6 @@ Sempre que você se comprometer em estudar um dos tópicos propostos do site Tec
 
 [Lista de Exercícios (3) C++](http://tech-sempz.blogspot.com.br/2017/09/lista-de-exercicio-3-c.html) .
 
-### Markdown
+### Melquiades Fidelis
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Criador e desenvolvedor do projeto Tech sempZ. Copyright (C) 2017 Tech-sempZ | Powered by Melquiades Fidelis
