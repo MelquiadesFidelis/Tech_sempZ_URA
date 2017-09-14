@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Escola de Ciências e Tecnologia – UFRN
 
 You can use the [editor on GitHub](https://github.com/MelquiadesFidelis/Tech_sempZ_URA/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
