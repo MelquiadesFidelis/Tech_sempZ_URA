@@ -1,8 +1,10 @@
 ## Escola de Ciências e Tecnologia – UFRN
 
-Seja bem vindo ao [GitHub Tech_SempZ](http://tech-sempz.blogspot.com.br/) tOnde se encontra um vasto material de programação, desde vidios aulas, lista de exercicios até jogos eletronicos 2D.
+Seja bem vindo ao [GitHub Tech_SempZ](http://tech-sempz.blogspot.com.br/) Onde se encontra um vasto material de programação, desde vídeos aulas, listas de exercícios até jogos eletrônicos 2D.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Sempre que você se comprometer em estudar um dos tópicos propostos do site Tech sempZ, poderá ir ao site, ou se desejar um arquivo contido no mesmo, poderá fazer o download gratuitamente como estas listas de Exercícios propostos na linguagem C++. [Lista de Exercícios (1) C++](http://tech-sempz.blogspot.com.br/2017/09/lista-de-exercicio-1-c.html) .
+[Lista de Exercícios (2) C++](http://tech-sempz.blogspot.com.br/2017/09/lista-de-exercicio-2-c.html) .
+[Lista de Exercícios (3) C++](http://tech-sempz.blogspot.com.br/2017/09/lista-de-exercicio-3-c.html) .
 
 ### Markdown
 
