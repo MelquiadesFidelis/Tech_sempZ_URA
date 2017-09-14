@@ -2,7 +2,7 @@
 
 Seja bem vindo ao [GitHub Tech_SempZ](http://tech-sempz.blogspot.com.br/) Onde se encontra um vasto material de programação, desde vídeos aulas, listas de exercícios até jogos eletrônicos 
 
-![GitHub Logo](/images/logo.png)
+
 Format: ![Alt Text](https://i.ytimg.com/vi/6Hxe8h3Yu8I/maxresdefault.jpg)
 
 Sempre que você se comprometer em estudar um dos tópicos propostos do site Tech sempZ, poderá ir ao site, ou se desejar um arquivo contido no mesmo, poderá fazer o download gratuitamente como estas listas de Exercícios propostas na linguagem C++.
